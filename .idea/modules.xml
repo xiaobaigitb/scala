@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scaladay01/scaladay01.iml" filepath="$PROJECT_DIR$/scaladay01/scaladay01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scaladay02/scaladay02.iml" filepath="$PROJECT_DIR$/scaladay02/scaladay02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalademo.iml" filepath="$PROJECT_DIR$/scalademo.iml" />
+    </modules>
+  </component>
+</project>
